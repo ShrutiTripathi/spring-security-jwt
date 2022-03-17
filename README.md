@@ -1,1 +1,1 @@
-This is a spring security jwt project.
+This is a spring security jwt project for learning.
